@@ -1,5 +1,5 @@
 ## ABOUT ------
-# o experiment model using the MBk.py
+# o an example of experiment using the MBk.py
 # o usage : python ExModelc.py
 #
 # Date : 28/4/2013
